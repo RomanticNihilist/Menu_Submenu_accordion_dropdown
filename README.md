@@ -120,10 +120,10 @@ void main(){
 ```
 
 ## Screenshots
-Include screenshots or GIFs of your package in action.
+Hehe, No screenshots, nije run kore joto khushi dakho
 
 ## Contributing
-Contributions are welcome! Please fork this repository, make your changes, and submit a pull request.
+Contributions are welcome! Pakamo marar aage amak jiggesh kore nebe
 
 ## License
 [MIT License](LICENSE)
