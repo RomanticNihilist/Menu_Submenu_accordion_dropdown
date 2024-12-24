@@ -17,7 +17,10 @@ Add the package to your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  flutter_ml_menu: ^1.0.0
+  Menu_Submenu_accordion_dropdown:
+  git:
+    url: https://github.com/RomanticNihilist/Menu_Submenu_accordion_dropdown.git
+    ref: master
 ```
 
 Then, run:
