@@ -10,6 +10,10 @@ Flutter ML Menu is a versatile and customizable Flutter package that provides a 
 - **Screen Management**: Dynamically update the current screen based on menu selection.
 - **Material Design**: Built with Flutter's Material Design principles for a clean and modern UI.
 
+## Screenshot
+
+![Alt text](https://i.imgur.com/tj76cmT.png "a title")
+
 ## Getting Started
 
 ### Installation
